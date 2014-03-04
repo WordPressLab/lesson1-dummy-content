@@ -1,0 +1,123 @@
+
+  <h1>CSS Basic Elements</h1> 
+      
+    <p>The purpose of this HTML is to help determine what default settings are with CSS 
+        and to make sure that all possible HTML Elements are included in this HTML so as 
+        to not miss any possible Elements when designing a site.</p>
+
+
+    <p>Use this sheet to play with styling different elements</p>
+    <p>The creator of this page has courteously included explanatory comments in the 
+       code. Please open this file in a text editor for helpful explanations of how this 
+       all works.</p> 
+
+<hr /> 
+  <h1 id="headings">Headings</h1>
+    <p>Here you can see the different sizes of headings. They get smaller and smaller 
+       until they're smaller than norma text. Not sure why that's useful.
+  <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+      <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+          <h5>Heading 5</h5>
+            <h6>Heading 6</h6>
+
+<hr /> 
+   
+   
+  <h1>Paragraphs</h1>
+   
+    <img width="250px" height="125px" src="the image location goes here" alt="Some text" />
+
+  <p>Paragraphs should be pretty straight forward by now. This here is a <a href="#" title="test link">test link</a>. If you hold your mouse over it, you will notice that a tool tip comes up saying "test link". this is because of the <code>title</code> attribute of the <code>&lt;a&gt;</code> tag.</p>
+   
+  <p>While using a style sheet is best for most of your styling, it's more appropriate to use inline styling for simple things like:
+  <br>
+  <em>Emphasized Text</em> 
+  <br>
+  <i>Italic Text</i>
+  <br>
+  <strong>Strong Text</strong>.
+  <br>
+  <b>Bold Text</b>
+  <br>
+  <big>Big Text</big>
+  <br>
+  <small>Small Text</small>
+  </p>
+   
+  <small><a href="#wrapper">[top]</a></small>
+  <hr />
+   
+  <h1 id="list_types">List Types</h1>
+   
+  <h3>Definition List</h3>
+  <dl>
+    <dt>Definition List Title</dt>
+    <dd>This is a definition list division.</dd>
+  </dl>
+   
+  <h3>Ordered List</h3>
+  <ol>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+      <ol>
+        <li>sub-List Item 1</li>
+        <li>sub-List Item 2</li>
+      </ol>
+    <li>List Item 3</li>
+  </ol>
+  <p>You can change the style of list numbers (like roman numerals, letters, etc.) using a CSS rule. Check <a target="blank" href="http://www.w3schools.com/tags/tag_ol.asp"> W3Schools</a> for a full list.</p>
+  <h3>Unordered List</h3>
+  <ul>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+      <ul>
+        <li>sub-List Item 1</li>
+        <li>sub-List Item 2</li>
+      </ul>
+    <li>List Item 3</li>
+  </ul>
+  <p>You can change the style of list bullets using a CSS rule. Check <a target="_blank" href="http://www.w3schools.com/tags/tag_ul.asp">W3 Schools</a> for a full list. You can even use your own image for bullets if you like using the list-style-image attribute</p> 
+   
+  <small><a href="#wrapper">[top]</a></small>
+  <hr />
+   
+  <h1 id="tables">Tables</h1>
+
+  <table cellspacing="0" cellpadding="0" border="1">
+    <tr>
+      <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
+          
+    </tr>
+    <tr>
+      <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+          
+    </tr>
+    <tr class="even">
+      <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    </tr>
+    <tr>
+      <td>Division 1</td><td>Division 2</td><td>Division 3</td>
+    </tr>
+   
+  </table>
+   
+  <small><a href="#wrapper">[top]</a></small>
+  <hr />
+   
+  <h1 id="misc">Misc Stuff - abbr, acronym, code, sub, sup, etc.</h1>
+   
+  <p>Like with exponents you have <sup>superscript</sup> or logarythms you have <sub>subscript</sub>. The <code>&lt;acronym&gt;</code> tag makes a tooltip pop up over an acronym as in <acronym title="Global Information Internship Program">GIIP</acronym>. There is also the abbreviation tag that functionally does the same thing as acronym. For example <abbr title="Avenue">AVE</abbr> is done with the <code>&lt;abbr&gt;</code> tag. It does the exact same thing as the <code>&lt;acronym&gt;</code> tag. Not sure why that is...</p> 
+  
+  <p><b>Fun Fact:</b>A series of words shortened to their first letters, as in UCSC, is called an <i>Initialism</i>. It is only an <i>Acronym</i> if it is pronounced as a word, as in GIIP.
+   
+   
+  <blockquote>
+    "Blockquotes are a good opportunity to go crazy with your CSS." <br />-Bob Loblaw
+  </blockquote>
+   
+  <small><a href="#wrapper">[top]</a></small>
+</body>
+
+</html>
