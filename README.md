@@ -4,12 +4,12 @@ Here is dummy content for the new WordPress instance that you've created
 
 ## testpage.txt
 
-The file contains a sample of every common HTML element. It's handy for testing new style rules that you've created. Create a page with it for content
+The file contains a sample of every common HTML element. It's handy for testing new style rules that you've created. Create a new WP page and paste the content from into the  text editor. __Set this page to be the homepage of your website__.
 
 
 ## doing-well.txt
 
-Some helpful tips on how to do well in this class. Create a page with it for content.
+Some helpful tips on how to do well in this class. Create a new WP page and paste the content from into the text editor.
 
 ## ca-public-colleges-menu.xml
 
