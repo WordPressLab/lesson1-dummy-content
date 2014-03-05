@@ -14,3 +14,5 @@ Some helpful tips on how to do well in this class. Create a new WP page and past
 ## ca-public-colleges-menu.xml
 
 This xml file is meant to be imported into your WordPress site. In the WP backend, go to "__Tools>Import__", then download and run the WordPress importer. The file will create a custom menu containing all California public universities.
+
+Create a sidebar widget using this custom menu.
