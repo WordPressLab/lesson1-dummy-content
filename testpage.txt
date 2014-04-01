@@ -118,6 +118,3 @@
   </blockquote>
    
   <small><a href="#wrapper">[top]</a></small>
-</body>
-
-</html>
