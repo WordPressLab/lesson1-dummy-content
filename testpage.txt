@@ -1,17 +1,4 @@
 
-  <h1>CSS Basic Elements</h1> 
-      
-    <p>The purpose of this HTML is to help determine what default settings are with CSS 
-        and to make sure that all possible HTML Elements are included in this HTML so as 
-        to not miss any possible Elements when designing a site.</p>
-
-
-    <p>Use this sheet to play with styling different elements</p>
-    <p>The creator of this page has courteously included explanatory comments in the 
-       code. Please open this file in a text editor for helpful explanations of how this 
-       all works.</p> 
-
-<hr /> 
   <h1 id="headings">Headings</h1>
     <p>Here you can see the different sizes of headings. They get smaller and smaller 
        until they're smaller than norma text. Not sure why that's useful.
