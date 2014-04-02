@@ -97,7 +97,7 @@
    
   <p>Like with exponents you have <sup>superscript</sup> or logarythms you have <sub>subscript</sub>. The <code>&lt;acronym&gt;</code> tag makes a tooltip pop up over an acronym as in <acronym title="Global Information Internship Program">GIIP</acronym>. There is also the abbreviation tag that functionally does the same thing as acronym. For example <abbr title="Avenue">AVE</abbr> is done with the <code>&lt;abbr&gt;</code> tag. It does the exact same thing as the <code>&lt;acronym&gt;</code> tag. Not sure why that is...</p> 
   
-  <p><b>Fun Fact:</b>A series of words shortened to their first letters, as in UCSC, is called an <i>Initialism</i>. It is only an <i>Acronym</i> if it is pronounced as a word, as in GIIP.
+  <p><b>Fun Fact:</b>A series of words shortened to their first letters, as in <acronym titpe="University of California Santa Cruz">UCSC</acronym>, is called an <i>Initialism</i>. It is only an <i>Acronym</i> if it is pronounced as a word, as in <acronym titpe="Global Information Internship Program">GIIP</acronym>.</p>
    
    
   <blockquote>
